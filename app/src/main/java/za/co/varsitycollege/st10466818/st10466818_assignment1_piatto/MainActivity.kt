@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
         val editTextTOD = findViewById<EditText>(R.id.editTextTOD) // Change to EditText
         //val appName = findViewById<TextView>(R.id.appName)
         val buttonPiattoPick = findViewById<Button>(R.id.buttonPiattoPick)
-        // reset button to clear everything
         val resetHomebutton = findViewById<Button>(R.id.resetButton)
         val textViewPiattoPick = findViewById<TextView>(R.id.textViewYourPiattoPick)
 
