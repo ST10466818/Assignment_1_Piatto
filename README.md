@@ -22,8 +22,7 @@ This app helps simplify meal choices by providing meal or snack suggestions base
 
 ```
 
-https://github.com/ST10466818/ST10466818_Assignment1_Piatto
-  
+[https://github.com/ST10466818/Assignment_1_Piatto.git] 
 ```
 ## Requirements
 
