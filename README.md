@@ -29,12 +29,7 @@ This app helps simplify meal choices by providing meal or snack suggestions base
 
  Android Studio ; GitHub ; Kotlin ; Android SDK 
 
- ## Running Tests
 
- Use the following to run tests 
-```bash
-./gradlew testDebugUnitTest
-```
 ## Image
 
 ![Piatto](https://github.com/user-attachments/assets/5ef0d723-513c-4ae7-ab09-ed96292a7746)
